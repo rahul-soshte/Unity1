@@ -11,5 +11,5 @@ public class Mover : MonoBehaviour {
 		rigidbody.velocity = transform.forward * speed;
 
 	}
-
+	
 }
